@@ -1,0 +1,96 @@
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+---
+title: "FinalProject"
+author: "Cristina Almario"
+date: '2022-07-22'
+output: html_document
+---
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  margin-bottom: 30px;
+  background-color: #282A35;
+  font-size: 20px;
+  color: #ffffff;
+  padding: 30px;
+  text-align: center;
+  position:absolute;
+  top:0;
+  left:0;
+  bottom:auto;
+}
+
+.formulas {
+  width: 100%;
+  margin-bottom: 30px;
+  background-color: #F9AB00;
+  font-size: 20px;
+  color: #ffffff;
+  padding: 30px;
+  text-align: center;
+  position:absolute;
+  top:auto;
+  left:0;
+  bottom:auto;
+}
+
+.footer {
+  background-color: #282A35;
+  text-align: center;
+  color: #ffffff;
+  padding: 20px;
+  margin: auto;
+  width:100%;
+  position: absolute;
+  top: auto;
+  left:0;
+}
+</style>
+
+<div class="header">
+  <h2><b>Final Project</b></h2>
+  <p>Analysis of Perceived Stress Level and Smartphone Addiction Between Different Age Groups Using ANOVA</p>
+</div>
+<br><br><br>
+
+### <b>INTRODUCTION</b>  
+
+Monty Hall was a game show host and the person this popular problem originates and is named from. The contestant would have **3 doors to choose from**, behind one of them was a car. The problem comes in when Monty opens one of the other 2 doors. Monty, knowing which door has the car, would then obviously open the door without a car. You are then left with the decision of whether to **keep your original answer**, or to **switch to the other remaining door**. Only years later would people realize that there is in fact a decision you should always make.
+
+### <b>METHODOLOGY</b>  
+
+Monty Hall was a game show host and the person this popular problem originates and is named from. The contestant would have **3 doors to choose from**, behind one of them was a car. The problem comes in when Monty opens one of the other 2 doors. Monty, knowing which door has the car, would then obviously open the door without a car. You are then left with the decision of whether to **keep your original answer**, or to **switch to the other remaining door**. Only years later would people realize that there is in fact a decision you should always make.
+
+### <b>RESULTS AND DISCUSSION</b>  
+
+Monty Hall was a game show host and the person this popular problem originates and is named from. The contestant would have **3 doors to choose from**, behind one of them was a car. The problem comes in when Monty opens one of the other 2 doors. Monty, knowing which door has the car, would then obviously open the door without a car. You are then left with the decision of whether to **keep your original answer**, or to **switch to the other remaining door**. Only years later would people realize that there is in fact a decision you should always make.
+
+![](https://live.staticflickr.com/65535/52235070084_debe0f00bc_c.jpg)
+![](https://live.staticflickr.com/65535/52235277985_75725b7860_c.jpg)
+
+<div class="formulas">
+  $$
+  F_{0}=\frac{SS_{treatments}/(a-1))}{SS_{E}/[a(n-1))]]}=\frac{MS_{treatments}}{MS_{E}}
+  $$
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+### <b>CONCLUSION</b>  
+
+Monty Hall was a game show host and the person this popular problem originates and is named from. The contestant would have **3 doors to choose from**, behind one of them was a car. The problem comes in when Monty opens one of the other 2 doors. Monty, knowing which door has the car, would then obviously open the door without a car. You are then left with the decision of whether to **keep your original answer**, or to **switch to the other remaining door**. Only years later would people realize that there is in fact a decision you should always make.
+
+<br><br>
+<div class="footer">
+  <p>Final Project by <b>Almario, Peñalosa, Perez, Tan, Valdez, and Villarosa</b></p>
+</div>
